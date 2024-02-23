@@ -10,11 +10,11 @@ const Home = () => {
         <section className="home container" id="home">
             <div className="intro">
                 <img src={Me} alt="" className="home__img" />
-                <h1 className="home__name">Ly Sovannarith</h1>
+                <h1 className="home__name">Ly Sovannarith King POS</h1>
                 <span className="home__education">I'm a Front-End Developer</span>
 
                 <HeaderSocials />
-                    <a href="#contact" className="btn">Here Me Now!</a>
+                    <a href="#contact" className="btn">Here Me Now!!</a>
                 {/* <ScrollDown /> */}
             </div>
             <Shapes />
