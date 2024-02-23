@@ -15,7 +15,7 @@ const Home = () => {
 
                 <HeaderSocials />
                     <a href="#contact" className="btn">Here Me</a>
-                <ScrollDown />
+                {/* <ScrollDown /> */}
             </div>
             <Shapes />
         </section>
