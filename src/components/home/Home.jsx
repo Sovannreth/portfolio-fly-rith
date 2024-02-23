@@ -14,7 +14,8 @@ const Home = () => {
                 <span className="home__education">I'm a Front-End Developer</span>
 
                 <HeaderSocials />
-                    <a href="#contact" className="btn">Here Me Now!!</a>
+                    <a href="#contact" className="btn">Here Me Now!</a>
+                    <a href="#contact" className="btn">Here You Now!</a>
                 {/* <ScrollDown /> */}
             </div>
             <Shapes />
