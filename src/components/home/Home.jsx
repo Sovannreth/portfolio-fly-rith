@@ -2,7 +2,7 @@ import React from "react";
 import './home.css';
 import Me from '../../assets/avatar-1.svg';
 import HeaderSocials from './HeaderSocials';
-import ScrollDown from './ScrollDown';
+// import ScrollDown from './ScrollDown';
 import Shapes from "./Shapes";
 
 const Home = () => {
@@ -15,8 +15,8 @@ const Home = () => {
 
                 <HeaderSocials />
                     <a href="#contact" className="btn">Here Me Now!</a>
+                    <a href="#contact" className="btn">Here Me Now!</a>
                     <a href="#contact" className="btn">Here You Now!</a>
-
                 {/* <ScrollDown /> */}
             </div>
             <Shapes />
