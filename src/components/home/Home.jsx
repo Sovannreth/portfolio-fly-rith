@@ -11,6 +11,9 @@ const Home = () => {
             <div className="intro">
                 <img src={Me} alt="" className="home__img" />
                 <h1 className="home__name">Pointer Property CoL,td</h1>
+                <h1 className="home__name">Pointer Property CoL,td</h1>
+                <h1 className="home__name">Pointer Property CoL,td</h1>
+                <h1 className="home__name">Pointer Property CoL,td</h1>
                 <span className="home__education">I'm a Front-End Developer</span>
 
                 <HeaderSocials />
